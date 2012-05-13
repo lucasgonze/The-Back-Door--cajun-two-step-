@@ -26,7 +26,7 @@ melodyWithChordSymbols =
 				\key g \major
 				\time 2/4
 				
-				\partial 4. g'8 e'8 e'8 \bar "||"
+				\partial 4. g'8 e'8 d'8 \bar "||"
 				b'4 b'4 | a'8 g'8 e'8 d'8 | b'4 b'8 a'8~ | a'8 g'8 e'8 d'8 | \break
 				b'4 b'4 | a'8 g'8 e'8 d'8 | b'4 b'8 a'8~ | a'8 g'8 e'8 d'8 | \break
 				c''4 c''4 | a'8 g'8 e'8 d'8 | c''4 c''8 a'8~ | a'8 g'8 e'8 d'8 | \break
